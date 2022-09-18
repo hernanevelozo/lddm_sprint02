@@ -1,2 +1,2 @@
 # Ignore config.sh file
-*.config.sh
+.config.sh
