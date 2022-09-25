@@ -5,9 +5,10 @@ Projeto dedicado ao segundo sprint da disciplina de LDDM.
 
 ## Telas do app
 - [✔️] 🌐 1 > - Login
-- [❗] ♾️ 2 > - Principal e Produto
-- [✔️] 🌐 3 > - Pesquisa
-- [✔️] 🌐 4 > - Configurações
+- [✔️] ♾️ 2 > - Principal
+- [✔️] ♾️ 3 > - Detalhes
+- [✔️] 🌐 4 > - Pesquisa
+- [✔️] 🌐 5 > - Configurações
 
 
 ## Integrantes
@@ -21,16 +22,14 @@ Projeto dedicado ao segundo sprint da disciplina de LDDM.
 
 * [Me. Ilo Amy Saldanha Rivero](https://www.escavador.com/sobre/4550958/ilo-amy-saldanha-rivero)
 
-## Delegações
 
+## Telas
 
-|  Tela    |  Conclusão  | Widget/Components  |     Tempo gasto    |  Responsável  |      xxx       |
-|:--------:|:-----------:|:------------------:|:------------------:|:-------------:|:--------------:|
-| Login    |             |                    |                    |   Geovana     |                |
-| Home     |             |                    |                    |   Hernane     |                |
-| Produto  |             |                    |                    |   Hernane     |                |
-| Pesquisa |             |                    |                    |   Gustavo     |                |
-| Configs  |             |                    |                    |   Gustavo     |                |
+![Detalhes](https://user-images.githubusercontent.com/88516429/192123673-a67915f4-f35d-4a10-9931-d6eae4063741.png)
+![Pesquisa](https://user-images.githubusercontent.com/88516429/192123676-5f6877d8-4bfd-4352-8fc6-bccbc1219b86.png)
+![Configs](https://user-images.githubusercontent.com/88516429/192123677-7d47b789-c8c1-43e7-a144-93272ad5ba99.png)
+![Home](https://user-images.githubusercontent.com/88516429/192123675-405f7f22-648c-4fcd-a663-dda03d020791.png)
+![Login](https://user-images.githubusercontent.com/88516429/192123678-97ad6b22-7e31-49d7-94e2-1f0f333b64a7.png)
 
 
 ## Licença
