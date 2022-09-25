@@ -25,11 +25,16 @@ Projeto dedicado ao segundo sprint da disciplina de LDDM.
 
 ## Telas
 
-![Detalhes](https://user-images.githubusercontent.com/88516429/192123673-a67915f4-f35d-4a10-9931-d6eae4063741.png)
-![Pesquisa](https://user-images.githubusercontent.com/88516429/192123676-5f6877d8-4bfd-4352-8fc6-bccbc1219b86.png)
-![Configs](https://user-images.githubusercontent.com/88516429/192123677-7d47b789-c8c1-43e7-a144-93272ad5ba99.png)
-![Home](https://user-images.githubusercontent.com/88516429/192123675-405f7f22-648c-4fcd-a663-dda03d020791.png)
-![Login](https://user-images.githubusercontent.com/88516429/192123678-97ad6b22-7e31-49d7-94e2-1f0f333b64a7.png)
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/88516429/192123673-a67915f4-f35d-4a10-9931-d6eae4063741.png" height = "480" width="270"></td>
+    <td><img src="https://user-images.githubusercontent.com/88516429/192123677-7d47b789-c8c1-43e7-a144-93272ad5ba99.png" height = "480" width="270"></td>
+    <td><img src="https://user-images.githubusercontent.com/88516429/192123676-5f6877d8-4bfd-4352-8fc6-bccbc1219b86.png" height = "480" width="270"></td>
+    <td><img src="https://user-images.githubusercontent.com/88516429/192123675-405f7f22-648c-4fcd-a663-dda03d020791.png" height = "480" width="270"></td>
+
+  </tr>
+</table>
 
 
 ## Licença
