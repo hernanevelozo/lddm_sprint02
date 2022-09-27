@@ -3,6 +3,20 @@
 
 Projeto dedicado ao segundo sprint da disciplina de LDDM.
 
+
+## Configurações de ambiente
+### Versões
+- Flutter: 3.3.2
+- Dart: 2.18.1 
+- DevTools: 2.15.0
+- Gradle: 7.1.2
+- ext-kotlin: 1.6.10
+
+### Sistemas Operacionais testados
+- Windows 11
+- Ubuntu 22.04.1
+
+
 ## Telas do app
 - [✔️] 🌐 1 > - Login
 - [✔️] ♾️ 2 > - Principal

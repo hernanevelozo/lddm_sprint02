@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_day1/home/components/categories.dart';
+import 'package:flutter_day1/home/components/tabbar_component.dart';
 
-import 'components/navBar.dart';
-import 'components/subPlaces.dart';
-import 'components/HomeScreen.dart';
+import 'components/bottom_nav_bar.dart';
+import 'components/food_list_component.dart';
+import 'components/swiper_component.dart';
 
 class MyHomePage extends StatelessWidget {
   @override
